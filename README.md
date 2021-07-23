@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&section=header&text=✋Sumsum%20Oksusu👌&fontSize=85)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&section=header&text=✨Kim%20Doyeon🍀&fontSize=90)
 
-✨ _special_ ✨
 
 ⚔ _Stack_ 🖋
 
