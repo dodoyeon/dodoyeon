@@ -5,7 +5,7 @@
 ⚔ _Stack_ 🖋
 
 
-![PyThon Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Notion&logoColor=white)  ![PyTorch Badge](https://img.shields.io/badge/PyTorch-#EE4C2Cstyle=flat-square&logo=PyTorch&logoColor=white)
+![PyThon Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Notion&logoColor=white)  ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 
 💎 _Profile_ 💎
 
