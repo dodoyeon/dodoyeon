@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&section=header&text=✨%20Kim%20Doyeon%20🍀&fontSize=83)
 
-
+_ I'm%20a%20junior%20software%20engineer%20studing%20Deep%20learning%20and%20NLP_
 
 ⚔ _Stack_ 🖋
 
