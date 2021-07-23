@@ -5,7 +5,7 @@
 ⚔ _Stack_ 🖋
 
 
-![PyThon Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Notion&logoColor=white)  ![PyTorch Badge](https://img.shields.io/badge/Pytorch-#EE4C2C?style=flat-square&logo=Notion&logoColor=white)![Notion Badge](https://img.shields.io/badge/Study-yellow?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Doyeon-Study-8bed26644d1e42109980d0e9dcb3102f)
+![PyThon Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Notion&logoColor=white)  ![PyTorch Badge](https://img.shields.io/badge/PyTorch-#EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)![Notion Badge](https://img.shields.io/badge/Study-yellow?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Doyeon-Study-8bed26644d1e42109980d0e9dcb3102f)
 
 💎 _Profile_ 💎
 
