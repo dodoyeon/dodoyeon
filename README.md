@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&section=header&text=✨Kim%20Doyeon🍀&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&section=header&text=✨%20Kim%20Doyeon%20🍀&fontSize=83)
+
 
 
 ⚔ _Stack_ 🖋
