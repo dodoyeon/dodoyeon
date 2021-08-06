@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&section=header&text=✨%20Kim%20Doyeon%20🍀&fontSize=83)
 
-딥러닝 자연어 처리를 배우고 있는 🌱새내기 개발자 입니다
+딥러닝 자연어 처리를 연구하는 🌱새내기 개발자 입니다
 
 
 _I'm a junior software engineer studing Deep learning and NLP_
